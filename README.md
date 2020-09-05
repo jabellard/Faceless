@@ -1,0 +1,2 @@
+# Faceless
+Headless CMS platform.
